@@ -1,6 +1,6 @@
-# Url Pattern Match 🔀
+# Url Pattern Match
 
-## A small JavaScript library to match url patterns and get param values
+## 🔀 A small JavaScript library to match url patterns and get param values
 
 Example:
 ```javascript
